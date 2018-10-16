@@ -1,6 +1,6 @@
 #Q.NO.1
 import re
-str1='valid email id is balwantrawat333@gmail.com'
+str1='valid email id isdushyantsharma250797@gmail.com.com'
 addresses=re.findall(r'[\w\.-]+@[\w\.-]+',str1)
 print(addresses)
 
